@@ -6,7 +6,7 @@ I. A large-scale dataset for stereo matching of high-resolution satellite imager
 II. Several deep learning methods for stereo matching.
 
 ### Dataset
-This word is done by the team of Prof. Wanshou Jiang in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China.
+This work is done by the team of Prof. Wanshou Jiang in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China.
 
 The dataset is available at:
 
