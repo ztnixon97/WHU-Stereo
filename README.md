@@ -5,7 +5,7 @@ I. A large-scale dataset named WHU-Stereo for stereo matching of high-resolution
 
 II. Several deep learning methods for stereo matching.
 
-### Dataset
+## Dataset
 This work is done by the team of Prof. Wanshou Jiang in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China.
 
 The dataset is available at:
@@ -14,7 +14,7 @@ i.
 
 ii. 
 
-### Deep learning methods
+## Deep learning methods
 The methods include:
 
 i. "StereoNet: Guided Hierarchical Refinement for Real-Time Edge-Aware Refinement for Real-Time Edge-Aware" by Sameh Khamis, Sean Fanello, Christoph Rhemann, Adarsh Kowdle, Julien Valentin, and Shahram Izadi, in ECCV 2018.
