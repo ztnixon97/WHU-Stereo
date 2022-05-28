@@ -1,7 +1,7 @@
 # WHU-Stereo
 This repository contains:
 
-I. A large-scale dataset named WHU-Stereo for stereo matching of high-resolution satellite imagery,
+I. A large-scale dataset named WHU-Stereo for stereo matching of high-resolution satellite imagery.
 
 II. Several deep learning methods for stereo matching.
 
