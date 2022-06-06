@@ -22,14 +22,10 @@ link: https://drive.google.com/drive/folders/1EsOgmyhbQYQYn7ApoEFtuZkBZgygBfcV?u
 
 The directory of the data is as follows:
 
-  with ground truth
-    
-    test
-    
+    with ground truth
+      test
         disp
-        
         left
-        
         right
 
 ## Deep learning methods
