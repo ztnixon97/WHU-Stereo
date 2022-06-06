@@ -55,5 +55,5 @@ Note that the code is completed by referring to the original open-source code an
 Development environment: CUDA 11.2, TensorFlow 2.5.0, Python 3.7.
 
 ## Citation
-If you find this work is helpful for your research, please cite:
+If you find this work helpful to your research, please cite:
 
