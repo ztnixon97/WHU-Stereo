@@ -10,7 +10,7 @@ This work is done by the team of Prof. Wanshou Jiang in State Key Laboratory of 
 
 ### Links
 
-The dataset can be downloaded from (will be available soon):
+The dataset can be downloaded from:
 
 link: https://pan.baidu.com/s/1IXQ76DrhLwlB8D_ba5m4eg (pwd：znml)
 
