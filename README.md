@@ -8,7 +8,7 @@ II. Several deep learning methods for stereo matching.
 ## Dataset
 This work is done by the team of Prof. Wanshou Jiang in State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University, Wuhan, China. Please see: http://openrs.whu.edu.cn/md/members/jws/jws.html.
 
-### Links
+#### Links
 
 The dataset can be downloaded from:
 
@@ -18,7 +18,7 @@ or
 
 link: https://drive.google.com/drive/folders/1EsOgmyhbQYQYn7ApoEFtuZkBZgygBfcV?usp=sharing
 
-### Directory
+#### Directory
 
 The directory of the data is as follows:
 
