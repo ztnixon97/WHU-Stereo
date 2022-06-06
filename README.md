@@ -53,3 +53,7 @@ iii. "HMSM-Net: Hierarchical multi-scale matching network for disparity estimati
 Note that the code is completed by referring to the original open-source code and may be a little different from the original papers.
 
 Development environment: CUDA 11.2, TensorFlow 2.5.0, Python 3.7.
+
+## Citation
+If you find this work is helpful for your research, please cite:
+
