@@ -39,7 +39,7 @@ The directory of the data is as follows:
       left
       right
 
-Stereo pairs with ground-truth disparity maps are stored in the directory "with ground truth", we have splitted them into three subsets. Satellite images are collected from six cities, namely Wuhan, Hengyang, Shaoguan, Kunming, Yingde, Qichun. Images and labels are prefixed with abbreviations of city names.
+Stereo pairs with ground-truth disparity maps are stored in the directory "with ground truth", we have splitted them into three subsets. Satellite images are collected from six cities, namely Wuhan, Hengyang, Shaoguan, Kunming, Yingde, and Qichun. Images and labels are prefixed with abbreviations of city names.
 
 ## Deep learning methods
 The methods include:
