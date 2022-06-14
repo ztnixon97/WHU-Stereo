@@ -58,12 +58,10 @@ Development environment: CUDA 11.2, TensorFlow 2.5.0, Python 3.7.
 If you find this work helpful to your research, please cite:
 
     @article{WanshouJiang2022WHU-Stereo,
-        author={Li, Shenhong and He, Sheng and Jiang, San and Jiang, Wanshou and Zhang, Lin},
         title={WHU-Stereo: A Challenging Benchmark for Stereo Matching of High-Resolution Satellite Images},
-        journal={CoRR},
-        volume={abs/2206.02342},
+        author={Li, Shenhong and He, Sheng and Jiang, San and Jiang, Wanshou and Zhang, Lin},
+        institution = {State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University},
         year={2022},
+        journal={arXiv:2206.02342},
         url={https://arxiv.org/abs/2206.02342},
-        eprinttype={arXiv},
-        eprint={2206.02342}
         }
