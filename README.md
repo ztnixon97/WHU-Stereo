@@ -60,7 +60,7 @@ If you find this work helpful to your research, please cite:
     @article{WanshouJiang2022WHU-Stereo,
         title={WHU-Stereo: A Challenging Benchmark for Stereo Matching of High-Resolution Satellite Images},
         author={Li, Shenhong and He, Sheng and Jiang, San and Jiang, Wanshou and Zhang, Lin},
-        institution = {State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University},
+        institution={State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing, Wuhan University},
         year={2022},
         journal={arXiv:2206.02342},
         url={https://arxiv.org/abs/2206.02342},
