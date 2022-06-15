@@ -18,6 +18,10 @@ or
 
 link: https://drive.google.com/drive/folders/1EsOgmyhbQYQYn7ApoEFtuZkBZgygBfcV?usp=sharing
 
+or
+
+link: https://drive.google.com/drive/folders/1mw6PrPRidDxP1OtS3_fgblv4T5x44I_k?usp=sharing
+
 #### Directory
 
 The directory of the data is as follows:
